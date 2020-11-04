@@ -5,7 +5,7 @@ function About() {
   return (
     <div className="App">
       <h1>Gallery</h1>
-      <img src={require('./Phabian3.jpg')} alt="ceo of kibalitek"  height="282" width="282"/>
+      <img src={require('./Phabian3.jpg')} alt="ceo of kibalitek"  height="280" width="280"/>
     <p> BWIRE PHABIANO
 C.E O
 Bwire is the CO-FOUNDER  and CEO of KIBALITEK.
