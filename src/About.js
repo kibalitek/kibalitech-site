@@ -7,7 +7,6 @@ function About() {
       <h1>Kibalitek Team</h1>
       <ul>
       <li> Bwire Phabian</li>
-      <li> Wafula Newton</li>
       <li> Masinde Joel</li>
       <li>Anyango Lilian</li>
       <li> Nabwire Hellen</li>
