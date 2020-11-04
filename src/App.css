@@ -7,12 +7,12 @@ nav {
   justify-content: space-around;
   align-items: center;
   min-height: 30vh;
-  background: rgb(75, 84, 87);
+  background: rgb(75, 85, 87);
   color: white;
 }
 
 .nav-links {
-  width: 100%;
+  width: 200%;
   display: flex;
   justify-content: space-around;
   align-items: center;
